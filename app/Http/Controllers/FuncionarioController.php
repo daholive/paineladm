@@ -4,7 +4,7 @@ namespace paineladm\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class EmpresaController extends Controller
+class FuncionarioController extends Controller
 {
     /**
      * Display a listing of the resource.
